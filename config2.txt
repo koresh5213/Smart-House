@@ -1,0 +1,14 @@
+[ AC-36 ]
+type = ambient_temp
+room = room6A
+floor = 6
+log = AC
+config = units: F; lower: 55; upper: 155; period: 2.3
+
+
+[ sensor ]
+type = fire_safety
+room = room11
+floor = 2
+log = daNGER
+config = SIGUSR2

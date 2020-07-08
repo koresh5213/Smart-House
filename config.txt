@@ -1,0 +1,382 @@
+
+[ AC-1 ]
+type = ambient_temp
+room = room1A
+floor = 1
+log = AC
+config = units: F; lower: -55; upper: 55; period: 2.3
+
+[ AC-24 ]
+type = ambient_temp
+room = room2A
+floor = 2
+log = AC
+config = units: C; lower: -12; upper: 17; period: 2.4
+
+[ AC-34 ]
+type = ambient_temp
+room = room3A
+floor = 3
+log = AC
+config = units: F; lower: 55; upper: 155; period: 2.5
+
+[ AC-44 ]
+type = ambient_temp
+room = room4A
+floor = 4
+log = AC
+config = units: F; lower: 55; upper: 155; period: 1.6
+
+[ AC-54 ]
+type = ambient_temp
+room = room5A
+floor = 5
+log = AC
+config = units: F; lower: 55; upper: 155; period: 1.7
+
+[ AC-64 ]
+type = ambient_temp
+room = room6A
+floor = 6
+log = AC
+config = units: F; lower: 55; upper: 155; period: 2.3
+
+
+[ AC-113 ]
+type = ambient_temp
+room = room1A
+floor = 1
+log = AC
+config = units: F; lower: -55; upper: 55; period: 1.3
+
+[ AC-123 ]
+type = ambient_temp
+room = room2A
+floor = 2
+log = AC
+config = units: C; lower: -12; upper: 17; period: 2.4
+
+[ AC-133 ]
+type = ambient_temp
+room = room3A
+floor = 3
+log = AC
+config = units: F; lower: 55; upper: 155; period: 2.5
+
+[ AC-143 ]
+type = ambient_temp
+room = room4A
+floor = 4
+log = AC
+config = units: F; lower: 55; upper: 155; period: 1.6
+
+[ AC-153 ]
+type = ambient_temp
+room = room5A
+floor = 5
+log = AC
+config = units: F; lower: 55; upper: 155; period: 4.7
+
+[ AC-163 ]
+type = ambient_temp
+room = room6A
+floor = 6
+log = AC
+config = units: F; lower: 55; upper: 155; period: 2.3
+
+
+
+[ AC-13 ]
+type = ambient_temp
+room = room1A
+floor = 1
+log = AC
+config = units: F; lower: -55; upper: 55; period: 2.3
+
+[ AC-23 ]
+type = ambient_temp
+room = room2A
+floor = 2
+log = AC
+config = units: C; lower: -12; upper: 17; period: 2.4
+
+[ AC-33 ]
+type = ambient_temp
+room = room3A
+floor = 3
+log = AC
+config = units: F; lower: 55; upper: 155; period: 2.5
+
+[ AC-43 ]
+type = ambient_temp
+room = room4A
+floor = 4
+log = AC
+config = units: F; lower: 55; upper: 155; period: 2.6
+
+[ AC-53 ]
+type = ambient_temp
+room = room5A
+floor = 5
+log = AC
+config = units: F; lower: 55; upper: 155; period: 1.7
+
+[ AC-63 ]
+type = ambient_temp
+room = room6A
+floor = 6
+log = AC
+config = units: F; lower: 55; upper: 155; period: 2.3
+
+[ AC-1113 ]
+type = ambient_temp
+room = room1A
+floor = 1
+log = AC
+config = units: F; lower: -55; upper: 55; period: 1.3
+
+[ AC-1132 ]
+type = ambient_temp
+room = room2A
+floor = 2
+log = AC
+config = units: C; lower: -12; upper: 17; period: 2.4
+
+[ AC-1133 ]
+type = ambient_temp
+room = room3A
+floor = 3
+log = AC
+config = units: F; lower: 55; upper: 155; period: 2.5
+
+[ AC-1143 ]
+type = ambient_temp
+room = room4A
+floor = 4
+log = AC
+config = units: F; lower: 55; upper: 155; period: 1.6
+
+[ AC-1153 ]
+type = ambient_temp
+room = room5A
+floor = 5
+log = AC
+config = units: F; lower: 55; upper: 155; period: 4.7
+
+[ AC-1163 ]
+type = ambient_temp
+room = room6A
+floor = 6
+log = AC
+config = units: F; lower: 55; upper: 155; period: 2.3
+
+
+
+[ AC-31 ]
+type = ambient_temp
+room = room1A
+floor = 1
+log = AC
+config = units: F; lower: -55; upper: 55; period: 2.3
+
+[ AC-32 ]
+type = ambient_temp
+room = room2A
+floor = 2
+log = AC
+config = units: C; lower: -12; upper: 17; period: 2.4
+
+[ AC-33 ]
+type = ambient_temp
+room = room3A
+floor = 3
+log = AC
+config = units: F; lower: 55; upper: 155; period: 2.5
+
+[ AC-34 ]
+type = ambient_temp
+room = room4A
+floor = 4
+log = AC
+config = units: F; lower: 55; upper: 155; period: 2.6
+
+[ AC-35 ]
+type = ambient_temp
+room = room5A
+floor = 5
+log = AC
+config = units: F; lower: 55; upper: 155; period: 1.7
+
+[ AC-36 ]
+type = ambient_temp
+room = room6A
+floor = 6
+log = AC
+config = units: F; lower: 55; upper: 155; period: 2.3
+
+
+[ AC-211 ]
+type = ambient_temp
+room = room1A
+floor = 1
+log = AC
+config = units: F; lower: -55; upper: 55; period: 1.3
+
+[ AC-212 ]
+type = ambient_temp
+room = room2A
+floor = 2
+log = AC
+config = units: C; lower: -12; upper: 17; period: 2.4
+
+[ AC-213 ]
+type = ambient_temp
+room = room3A
+floor = 3
+log = AC
+config = units: F; lower: 55; upper: 155; period: 2.5
+
+[ AC-214 ]
+type = ambient_temp
+room = room4A
+floor = 4
+log = AC
+config = units: F; lower: 55; upper: 155; period: 1.6
+
+[ AC-215 ]
+type = ambient_temp
+room = room5A
+floor = 5
+log = AC
+config = units: F; lower: 55; upper: 155; period: 4.7
+
+[ AC-216 ]
+type = ambient_temp
+room = room6A
+floor = 6
+log = AC
+config = units: F; lower: 55; upper: 155; period: 2.3
+
+
+
+[ AC-11 ]
+type = ambient_temp
+room = room1A
+floor = 1
+log = AC
+config = units: F; lower: -55; upper: 55; period: 2.3
+
+[ AC-12 ]
+type = ambient_temp
+room = room2A
+floor = 2
+log = AC
+config = units: C; lower: -12; upper: 17; period: 2.4
+
+[ AC-13 ]
+type = ambient_temp
+room = room3A
+floor = 3
+log = AC
+config = units: F; lower: 55; upper: 155; period: 2.5
+
+[ AC-14 ]
+type = ambient_temp
+room = room4A
+floor = 4
+log = AC
+config = units: F; lower: 55; upper: 155; period: 2.6
+
+[ AC-15 ]
+type = ambient_temp
+room = room5A
+floor = 5
+log = AC
+config = units: F; lower: 55; upper: 155; period: 1.7
+
+[ AC-16 ]
+type = ambient_temp
+room = room6A
+floor = 6
+log = AC
+config = units: F; lower: 55; upper: 155; period: 2.3
+
+[ AC-1111 ]
+type = ambient_temp
+room = room1A
+floor = 1
+log = AC
+config = units: F; lower: -55; upper: 55; period: 1.3
+
+[ AC-1112 ]
+type = ambient_temp
+room = room2A
+floor = 2
+log = AC
+config = units: C; lower: -12; upper: 17; period: 2.4
+
+[ AC-1113 ]
+type = ambient_temp
+room = room3A
+floor = 3
+log = AC
+config = units: F; lower: 55; upper: 155; period: 2.5
+
+[ AC-1114 ]
+type = ambient_temp
+room = room4A
+floor = 4
+log = AC
+config = units: F; lower: 55; upper: 155; period: 1.6
+
+[ AC-1115 ]
+type = ambient_temp
+room = room5A
+floor = 5
+log = AC
+config = units: F; lower: 55; upper: 155; period: 4.7
+
+[ AC-1116 ]
+type = ambient_temp
+room = room6A
+floor = 6
+log = AC
+config = units: F; lower: 55; upper: 155; period: 2.3
+
+
+
+[ HVAC-1 ]
+type = HVACController
+room = room1A
+floor = 1
+log = controller
+config = tmp: -12;
+
+[ HVAC-2 ]
+type = HVACController
+room = room2A
+floor = 2
+log = controller
+config = tmp: -12;
+
+[ HVAC-3 ]
+type = HVACController
+room = room3A
+floor = 3
+log = controller
+config = tmp: -12;
+
+[ HVAC-4 ]
+type = HVACController
+room = room4A
+floor = 4
+log = controller
+config = tmp: -12;
+
+[ HVAC-5 ]
+type = HVACController
+room = room5A
+floor = 5
+log = controller
+config = tmp: -12;
+
